@@ -3,7 +3,8 @@
 # Zek0Faws
 <p>
   <em>
-    Web developer.<br>
+    My name is Christopher Maugis<br>
+    I'm a Web developer.<br>
     <a href="https://maug.is">Here's my resume</a>
   </em>  
 </p>
