@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Christopher
 
-# Zek0Faws
+# AKA Zek0Faws
 <p>
   <em>
-    My name is Christopher Maugis<br>
     I'm a Web developer.<br>
     <a href="https://maug.is">Here's my resume</a>
   </em>  
