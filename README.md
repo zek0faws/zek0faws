@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Christopher
 
-# AKA Zek0Faws
+# A.K.A Zek0Faws
 <p>
   <em>
     I'm a Web developer.<br>
